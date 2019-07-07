@@ -7,10 +7,10 @@ venue: "Test University, Department of Testing Science"
 date: 2016-03-01
 location: "San Francisco, California"
 ---
-<p align="center">
-  <img src="https://yueyuanwen.github.io/files/yueyuanwen.jpg?raw=true" alt="Photo" style="width: 450px;"/> 
+<p align="left">
+  <img src="https://yueyuanwen.github.io/files/yueyuanwen.jpg?raw=true" alt="Photo" style="width: 300px;"/> 
 </p>
-This talk is an 1introduction to Testing.
+This talk is an 2introduction to Testing.
 
 Headings
 ======
