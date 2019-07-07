@@ -8,5 +8,7 @@ author_profile: true
 {% include base_path %}
 
 
-[Click to View My Up-to-date Curriculum Vitae[PDF]](https://yueyuanwen.github.io/files/yueyuanwen_cv.pdf).
+{% for post in site.portfolio %}
+  {% include archive-single.html %}
+{% endfor %}
 
