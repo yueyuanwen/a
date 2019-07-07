@@ -18,7 +18,8 @@ redirect_from:
 
 # Recent news
 
-
+* April 18, 2019. We were designated as [Meritorious Winners](https://yueyuanwen.github.io/files/ICM_result.pdf)(TOP8% Worldwide) in [Interdisciplinary Contestin Modeling(ICM)](https://www.comap.com/undergraduate/contests/index.html)
 * March 3, 2019. One [paper](https://www.int-arch-photogramm-remote-sens-spatial-inf-sci.net/XLII-2-W13/1027/2019/) titled "Integration of A Low-cost Multisensory UAV System for Forest Application" was accepted to [ISPRS Geopatial Week 2019](https://www.gsw2019.org/).
 * February 28, 2019. I got a summer internship position in [Prof.KarimEl-Basyouny](https://www.ualberta.ca/engineering/research/groups/smart-transportation/people/faculty-and-staff/karim-el-basyouny)'s lab at [University of Alberta](https://www.ualberta.ca/).
-* December 8, 2018. We won the First Prize and the Most Valuable Investment Prize in [16th SuperMap Cup GIS Contest](http://www.giscontest.com/en/list-6.aspx).
+* December 8, 2018. We won First Prize and the Most Valuable Investment Prize in [16th SuperMap Cup GIS Contest](http://www.giscontest.com/en/list-6.aspx).
+* August 31, 2018. We won the Best Innovation Award in [7th China Software Cup-Software Design Competition for CollegeStudents](http://www.cnsoftbei.com/do/showsp.php?fid=6&id=36).
