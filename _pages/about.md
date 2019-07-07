@@ -19,6 +19,6 @@ redirect_from:
 # Recent news
 
 
-* March 3, 2019. One [paper](https://www.int-arch-photogramm-remote-sens-spatial-inf-sci.net/XLII-2-W13/1027/2019/) titled "Integration of A Low-cost Multisensory UAV System for Forest Application" was accepted to ISPRS Geopatial Week 2019.
+* March 3, 2019. One [paper](https://www.int-arch-photogramm-remote-sens-spatial-inf-sci.net/XLII-2-W13/1027/2019/) titled "Integration of A Low-cost Multisensory UAV System for Forest Application" was accepted to [ISPRS Geopatial Week 2019](https://www.gsw2019.org/).
 * February 28, 2019. I got a summer internship position in [Prof.KarimEl-Basyouny](https://www.ualberta.ca/engineering/research/groups/smart-transportation/people/faculty-and-staff/karim-el-basyouny)'s lab at [University of Alberta](https://www.ualberta.ca/).
 * December 8, 2018. We won the First Prize and the Most Valuable Investment Prize in [16th SuperMap Cup GIS Contest](http://www.giscontest.com/en/list-6.aspx).
