@@ -5,7 +5,7 @@ permalink: /awards/
 author_profile: true
 ---
 
-* **Meritorious Winners (TOP 8%)** , Interdisciplinary Contest in Modeling (ICM), U.S.A, 2019
+* **Meritorious Winners <span style="color:red">(TOP 8%)</span>** , Interdisciplinary Contest in Modeling (ICM), U.S.A, 2019
 
 * **Scholarship of CSC & UAlberta for Undergraduate Internship (30 students from P.R.China)**, China Scholarship Council, China, 2019
 
