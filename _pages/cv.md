@@ -1,6 +1,6 @@
 ---
 <!-- layout: archive -->
-title: "CV"
+title: "Yuanwen Yue (岳远紊)"
 permalink: /cv/
 author_profile: true
 redirect_from:
