@@ -1,16 +1,14 @@
 ---
-title: "An Introduction to Testing"
+title: "Design of Location-based Augmented Reality System: ici"
 collection: talks
-type: "Talk"
+type: ""
 permalink: /talks/2016-03-01-intro-testing
-venue: "Test University, Department of Testing Science"
-date: 2016-03-01
-location: "San Francisco, California"
+venue: ""
+date: March 2018 - Present
+location: "Wuhan, China"
 ---
-<p align="left">
-  <img src="https://yueyuanwen.github.io/files/yueyuanwen.jpg?raw=true" alt="Photo" style="width: 300px;"/> 
-</p>
-This talk is an 2introduction to Testing.
+
+A software based on Augmented Reality (AR) technology to show information on virtual models at specific locations.
 
 Headings
 ======
