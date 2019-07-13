@@ -9,4 +9,4 @@ A software based on Augmented Reality (AR) technology to show information on vir
 * ici 1.0
 <iframe width="560" height="315" src="https://www.youtube.com/embed/PuqF4zWDouc?rel=0&amp;showinfo=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 * ici 2.0
-<iframe src="https://www.youtube.com/embed/PuqF4zWDouc?rel=0&amp;showinfo=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" style='width: 450px;height: 253px' allowfullscreen></iframe>
+<iframe src="https://www.youtube.com/embed/PuqF4zWDouc?rel=0&amp;showinfo=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" style='width: 560px;height: 315px' allowfullscreen></iframe>
