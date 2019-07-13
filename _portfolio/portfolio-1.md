@@ -5,6 +5,4 @@ excerpt: "Mar.2018-Present<br/>A software based on Augmented Reality (AR) techno
 collection: portfolio
 ---
 
-location
-***
-<hr>
+* location
