@@ -7,6 +7,4 @@ collection: portfolio
 *Mar.2018-Present* <br/>
 A software based on Augmented Reality (AR) technology to show information on virtual models at specific locations. 
 * ici 1.0
-<p align="center">
-  <video src="https://yueyuanwen.github.io/files/ici_1.0.mp4?raw=true" style="width: 450px;" controls></video>
-</p>
+<video src="https://youtu.be/ydcP42Bxf3A" style="width: 450px;" controls></video>
