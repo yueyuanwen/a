@@ -7,4 +7,4 @@ collection: portfolio
 *Mar.2018-Present* <br/>
 A software based on Augmented Reality (AR) technology to show information on virtual models at specific locations. 
 * ici 1.0
-<iframe width="400" height="225" src="https://www.youtube.com/embed/ydcP42Bxf3A?rel=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="350" height="197" src="https://www.youtube.com/embed/ydcP42Bxf3A?rel=0&amp;showinfo=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
