@@ -13,7 +13,7 @@ author_profile: true
 
 * **Best Innovation Award** *<span style="color:red">(TPO 10 out of 4127 teams)</span>*, 7th China Software Cup-Software Design Competition for College Students, China, 2018
 
-* **Academician Chen Yongling Science and Technology Innovation Scholarship for Outstanding Students** *<span style="color:red">(2 students in School of Resource and Environmental Sciences)</span>*, Wuhan University, China, 2018
+* **Academician Chen Yongling Science and Technology Innovation Scholarship for Outstanding Students** *<span style="color:red">(1 student in School of Resource and Environmental Sciences)</span>*, Wuhan University, China, 2018
 
 * **First-class Undergraduate Scholarship** *<span style="color:red">(TPO 5%)</span>*, Wuhan University, China, 2018
 
