@@ -15,6 +15,6 @@ Besides, one paper is under review.<br/><br/>
 Now, we are looking for investment and cooperation. Below are two demo videos of our product. If you are interested in our project, please don't hesitate to contact me!<br/>
 
 * ici 1.0
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ydcP42Bxf3A" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gHuZJiBWqOM?rel=0&amp;showinfo=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 * ici 2.0
 <iframe width="560" height="315" src="https://www.youtube.com/embed/PuqF4zWDouc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
