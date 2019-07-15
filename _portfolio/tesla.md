@@ -20,6 +20,6 @@ This is my final project of *Web GIS and geographic information service course d
 Here are some screenshots of the system. For more information, please visit the project [homepage](http://www.yueyw.net/station-en).<br/>
 
 <p align="center">
-  <img src="https://yueyuanwen.github.io/images/tesla_station_screenshot.png?raw=true" alt="Photo" style="width: 500px;"/> 
+  <img src="https://yueyuanwen.github.io/images/tesla_station_screenshot.png?raw=true" alt="Photo" style="width: 700px;"/> 
 </p>
 
