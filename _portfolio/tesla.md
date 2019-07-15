@@ -16,8 +16,10 @@ This is my final project of *Web GIS and geographic information service course d
 * Database: PostSQL 10<br/>
 * JavaScript library: Openlayers 4.6.5、jQuery、ECharts、AMap JS API、Bootstrap<br/>
 * Cloud platform: Alibaba Cloud Windows Server 2012 R2 64-bit <br/>
+
+Here are some screenshots of the system. For more information, please visit the project [homepage](http://www.yueyw.net/station-en).<br/>
+
 <p align="center">
-  <img src="https://yueyuanwen.github.io/files/tesla_station_screenshot.png?raw=true" alt="Photo" style="width: 500px;"/> 
+  <img src="https://yueyuanwen.github.io/images/tesla_station_screenshot.png?raw=true" alt="Photo" style="width: 500px;"/> 
 </p>
 
-For more information, please visit the project [homepage](http://www.yueyw.net/station-en).
