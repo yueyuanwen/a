@@ -24,17 +24,8 @@ redirect_from:
 * December 8, 2018. We won First Prize and the Most Valuable Investment Prize (TOP 1%) in [16th SuperMap Cup GIS Contest](http://www.giscontest.com/en/list-6.aspx). Official news can be viewed [here](https://mp.weixin.qq.com/s/R4SdVzB8eMFvC81dEfsI5Q).
 * August 31, 2018. We won the Best Innovation Award (TPO 10 out of 4127 teams) in [7th China Software Cup--Software Design Competition for College Students](http://www.cnsoftbei.com/do/showsp.php?fid=6&id=36).
 
-<script type="text/javascript">
-var sc_project=11920534; 
-var sc_invisible=0; 
-var sc_security="a4859478"; 
-var scJsHost = "https://";
-document.write("<sc"+"ript type='text/javascript' src='" +
-scJsHost+
-"statcounter.com/counter/counter.js'></"+"script>");
-</script>
-<noscript><div class="statcounter"><a title="Web Analytics"
+<div class="statcounter"><a title="Web Analytics"
 href="https://statcounter.com/" target="_blank"><img
 class="statcounter"
 src="https://c.statcounter.com/11920534/0/a4859478/0/"
-alt="Web Analytics"></a></div></noscript>
+alt="Web Analytics"></a></div>
