@@ -4,7 +4,16 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-
+<div class="pub-container">
+    <div class="pub-thumb"><img src="" style="height:130px"></div>
+    <div class="pub-content">
+        <div class="pub-title">Design of Social Network System Based on Augmented Reality and Geo-fencing</div>
+        <div class="pub-author"><b>Yuanwen Yue</b>, Yueyao Wang, Yuhao Kang, Kunlin Wu, Teng Fei</div>
+        <div class="pub-conf">Journal of Geomatics (Under Review)</div>
+        <div class="pub-link">
+        [<a href="http://yueyw.net/portfolio/ici/">Project</a>]</div>
+    </div>
+</div>
 <div class="pub-container">
     <div class="pub-thumb"><img src="/images/kylin_uav.png" style="height:130px"></div>
     <div class="pub-content">
