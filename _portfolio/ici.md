@@ -1,10 +1,10 @@
 ---
 title: "Design of Location-based Augmented Reality System: ici"
-excerpt: "Oct.2018-Present<br/>A software based on Augmented Reality (AR) technology to show information on virtual models at specific locations. <br/>
+excerpt: "Oct.2017-Present<br/>A software based on Augmented Reality (AR) technology to show information on virtual models at specific locations. <br/>
 <img src='/images/ici.jpg' style='width: 400px;'>"
 collection: portfolio
 ---
-*Oct.2018-Present* <br/>
+*Oct.2017-Present* <br/>
 *Principle Investigator* <br/><br/>
 With the increasing popularity of mobile social networking, user-generated content (UGC) has become an important way for users to express themselves and expand their location-based social networks (LBSN). Traditional LBSN is based on flat social media (e.g. text, picture, video), which can no longer meet people's increasing diversified needs. Augmented reality (AR) supplements the real-world views or scenes with virtual, computer-generated objects that appear to visually coexist in the same space. In this project, we developed a smartphone system integrating location-based AR and User Generated Content (UGC) with a novel human-computer interaction mode. Users can publish AR content in a 3D model associated with real-world coordinates, and interact with content published by others.<br/><br/>
 We have developed two generations of products and won many top awards, including
