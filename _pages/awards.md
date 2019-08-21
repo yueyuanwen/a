@@ -9,7 +9,7 @@ author_profile: true
 
 * **Scholarship of CSC & UAlberta for Undergraduate Internship** *<span style="color:red">(30 students from P.R.China)</span>*, China Scholarship Council, China, 2019
 
-* **First Prize & Most Valuable Investment Prize** *<span style="color:red">(TOP 1%)</span>*, 16th SuperMap Cup GIS Contest, China, 2018
+* **First Prize & Best Valuable Investment Prize** *<span style="color:red">(TOP 1%)</span>*, 16th SuperMap Cup GIS Contest, China, 2018
 
 * **Best Innovation Award** *<span style="color:red">(TPO 10 out of 4127 teams)</span>*, 7th China Software Cup-Software Design Competition for College Students, China, 2018
 
