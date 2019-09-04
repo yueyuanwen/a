@@ -6,6 +6,17 @@ author_profile: true
 ---
 
 <div class="pub-container">
+    <div class="pub-thumb"><img src="/images/ici_system.png" style="height:130px"></div>
+    <div class="pub-content">
+        <div class="pub-title">Design of Social Network System Based on Augmented Reality and Geo-fencing</div>
+        <div class="pub-author"><b>Yuanwen Yue</b>, Yueyao Wang, Yuhao Kang, Kunlin Wu, Teng Fei</div>
+        <div class="pub-conf">Journal of Geomatics (Accepted)</div>
+        <div class="pub-link">
+        [<a href="http://yueyw.net/portfolio/ici/">Project</a>]</div>
+    </div>
+</div>
+
+<div class="pub-container">
     <div class="pub-thumb"><img src="/images/kylin_uav.png" style="height:130px"></div>
     <div class="pub-content">
         <div class="pub-title">Integration of A Low-cost Multisensory UAV System for Forest Application</div>
@@ -14,16 +25,5 @@ author_profile: true
         <div class="pub-link">[<a href="https://yueyuanwen.github.io/files/UAV_GSW2019.pdf">Paper</a>]
         [<a href="https://doi.org/10.5194/isprs-archives-XLII-2-W13-1027-2019">DOI</a>]
         [<a href="http://yueyw.net/portfolio/kylin/">Project</a>]</div>
-    </div>
-</div
-
-<div class="pub-container">
-    <div class="pub-thumb"><img src="/images/ici_system.png" style="height:130px"></div>
-    <div class="pub-content">
-        <div class="pub-title">Design of Social Network System Based on Augmented Reality and Geo-fencing</div>
-        <div class="pub-author"><b>Yuanwen Yue</b>, Yueyao Wang, Yuhao Kang, Kunlin Wu, Teng Fei</div>
-        <div class="pub-conf">Journal of Geomatics (Accepted)</div>
-        <div class="pub-link">
-        [<a href="http://yueyw.net/portfolio/ici/">Project</a>]</div>
     </div>
 </div>
