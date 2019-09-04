@@ -11,7 +11,6 @@ We have developed two generations of products and won many top awards, including
 * **First Prize & Best Valuable Investment Prize** *<span style="color:red">(TOP 1%)</span>*, 16th SuperMap Cup GIS Contest
 * **Best Innovation Award** *<span style="color:red">(TPO 10 out of 4127 teams)</span>*, 7th China Software Cup-Software Design Competition for College Students<br/>
 
-Besides, one paper is under review.<br/><br/>
 Now, we are looking for investment and cooperation. Below are two demo videos of our product. If you are interested in our project, please don't hesitate to contact us!<br/>
 
 * ici 1.0
