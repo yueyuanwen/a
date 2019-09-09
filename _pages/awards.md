@@ -7,7 +7,7 @@ author_profile: true
 
 * **Meritorious Winners**  *<span style="color:red">(TOP 8%)</span>*, Interdisciplinary Contest in Modeling (ICM), U.S.A, 2019
 
-* **Scholarship of CSC & UAlberta for Undergraduate Internship** *<span style="color:red">(30 students from P.R.China)</span>*, China Scholarship Council, China, 2019
+* **Scholarship of CSC & UAlberta for Undergraduate Internship** *<span style="color:red">(30 students from Double First-Class Initiative universities in China)</span>*, China Scholarship Council, China, 2019
 
 * **First Prize & Best Valuable Investment Prize** *<span style="color:red">(TOP 1%)</span>*, 16th SuperMap Cup GIS Contest, China, 2018
 
