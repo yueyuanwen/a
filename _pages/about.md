@@ -25,6 +25,6 @@ redirect_from:
 * August 31, 2018. We won the Best Innovation Award (TPO 10 out of 4127 teams) in the [7th China Software Cup--Software Design Competition for College Students](http://www.cnsoftbei.com/do/showsp.php?fid=6&id=36).
 
 
-<div style="width:100px;height:100px;background:red;display:none">
-	<script type="text/javascript" src="//rf.revolvermaps.com/0/0/9.js?i=5z4frq15pm2&amp;t=" async="async"></script>
+<div style="width:100px;height:100px;display:none">
+	<script type="text/javascript" src="//rf.revolvermaps.com/0/0/9.js?i=5z4frq15pm2&amp;t=revolvermaps" async="async"></script>
 </div>
