@@ -24,4 +24,4 @@ redirect_from:
 * December 8, 2018. We won First Prize and the Best Valuable Investment Prize (TOP 1%) in the [16th SuperMap Cup GIS Contest](http://www.giscontest.com/en/list-6.aspx). Official news can be viewed [here](http://www.giscontest.com/cn/view-1000-96.aspx).
 * August 31, 2018. We won the Best Innovation Award (TPO 10 out of 4127 teams) in the [7th China Software Cup--Software Design Competition for College Students](http://www.cnsoftbei.com/do/showsp.php?fid=6&id=36).
 
-<script type="text/javascript" src="//rf.revolvermaps.com/0/0/9.js?i=5z4frq15pm2&amp;t=info" async="async"></script>
+<script type="text/javascript" src="//rf.revolvermaps.com/0/0/9.js?i=5z4frq15pm2&amp;t=" async="async"></script>
