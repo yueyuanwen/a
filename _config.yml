@@ -68,11 +68,7 @@ social:
   links: # An array of links to social media profiles
 
 
-# Analytics
-analytics:
-  provider               :   
-  google:
-    tracking_id          : 
+
 
 
 # Site Author
