@@ -4,6 +4,8 @@ title: "Awards"
 permalink: /awards/
 author_profile: true
 ---
+* **Academician Xia Jianbai Scholarship for Outstanding Students** *<span style="color:red">(1 student in School of Resource and
+Environmental Sciences)</span>*, Wuhan University, China, 2019
 
 * **Meritorious Winners**  *<span style="color:red">(TOP 8%)</span>*, Interdisciplinary Contest in Modeling (ICM), U.S.A, 2019
 
