@@ -17,6 +17,7 @@ redirect_from:
 * My research interests lie in geoinformatics, 3D computer vision including augmented reality and UAV laser scanning as well as their applications. I am also working on projects in location based service. 
 
 # Recent news
+* October 2, 2019. One paper titiled "A Location-based Social Network System Integrating Mobile Augmented Reality and User Generated Content" was accepted by 3rd ACM SIGSPATIAL International Workshop on LocalRec 2019.
 * August 29, 2019. One paper titled "Design of Social Network System Based on Augmented Reality and Geo-fencing" was accepted by Journal of Geomatics.
 * April 18, 2019. We were designated as [Meritorious Winners](https://yueyuanwen.github.io/files/ICM_result.pdf) (TOP 8% Worldwide) in the [Interdisciplinary Contest in Modeling(ICM)](https://www.comap.com/undergraduate/contests/index.html).
 * March 3, 2019. One co-authored [paper](https://www.int-arch-photogramm-remote-sens-spatial-inf-sci.net/XLII-2-W13/1027/2019/) titled "Integration of A Low-cost Multisensory UAV System for Forest Application" was accepted by [ISPRS Geospatial Week 2019](https://www.gsw2019.org/).
