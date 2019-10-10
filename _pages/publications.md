@@ -6,6 +6,17 @@ author_profile: true
 ---
 
 <div class="pub-container">
+    <div class="pub-thumb"><img src="/images/ici2.0.png" style="height:130px"></div>
+    <div class="pub-content">
+        <div class="pub-title">A Location-based Social Network System Integrating Mobile Augmented Reality and User Generated Content</div>
+        <div class="pub-author"><b>Yuanwen Yue</b>, Jiaqi Ding, Yuhao Kang, Yueyao Wang, Kunlin Wu, Teng Fei</div>
+        <div class="pub-conf">ACM SIGSPATIAL International Workshop on LocalRec 2019 (Accepted)</div>
+        <div class="pub-link">
+        [<a href="http://yueyw.net/portfolio/ici/">Project</a>]</div>
+    </div>
+</div>
+
+<div class="pub-container">
     <div class="pub-thumb"><img src="/images/ici_system.png" style="height:130px"></div>
     <div class="pub-content">
         <div class="pub-title">Design of Social Network System Based on Augmented Reality and Geo-fencing</div>
