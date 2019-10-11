@@ -12,7 +12,8 @@ author_profile: true
         <div class="pub-author"><b>Yuanwen Yue</b>, Jiaqi Ding, Yuhao Kang, Yueyao Wang, Kunlin Wu, Teng Fei</div>
         <div class="pub-conf">ACM SIGSPATIAL International Workshop on LocalRec 2019 (Accepted)</div>
         <div class="pub-link">
-        [<a href="http://yueyw.net/portfolio/ici/">Project</a>]</div>
+        [<a href="http://yueyw.net/portfolio/ici/">Project</a>]
+        [<a href="https://yueyw.net/publications/ici2.0">Abstract</a>]</div>
     </div>
 </div>
 

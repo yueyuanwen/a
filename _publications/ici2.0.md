@@ -1,7 +1,7 @@
 ---
 title: "A Location-based Social Network System Integrating Mobile Augmented Reality and User Generated Content"
 collection: publications
-permalink: /publications/2009-10-01-test-accts-intro
+permalink: /publications/ici2.0
 venue: "ACM SIGSPATIAL International Workshop on LocalRec 2019"
 paperurl: coming soon.
 ---
