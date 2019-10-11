@@ -13,7 +13,7 @@ author_profile: true
         <div class="pub-conf">ACM SIGSPATIAL International Workshop on LocalRec 2019 (Accepted)</div>
         <div class="pub-link">
         [<a href="http://yueyw.net/portfolio/ici/">Project</a>]
-        [<a href="https://yueyw.net/publications/ici-2">Abstract</a>]</div>
+        [<a href="http://yueyw.net/publications/ici-2">Abstract</a>]</div>
     </div>
 </div>
 
