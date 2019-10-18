@@ -7,6 +7,8 @@ author_profile: true
 * **Academician Xia Jianbai Scholarship for Outstanding Students** *<span style="color:red">(1 student in School of Resource and
 Environmental Sciences)</span>*, Wuhan University, China, 2019
 
+* **First-class Undergraduate Scholarship** *<span style="color:red">(TPO 5%)</span>*, Wuhan University, China, 2019
+
 * **Meritorious Winners**  *<span style="color:red">(TOP 8%)</span>*, Interdisciplinary Contest in Modeling (ICM), U.S.A, 2019
 
 * **Scholarship of CSC & UAlberta for Undergraduate Internship** *<span style="color:red">(30 students from Double First-Class Initiative universities in China)</span>*, China Scholarship Council, China, 2019
