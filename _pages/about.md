@@ -17,7 +17,7 @@ redirect_from:
 * My research interests lie in geoinformatics, 3D computer vision including augmented reality and UAV laser scanning as well as their applications. I am also working on projects in location based service. 
 
 # Recent news
-* October 31, 2019. We won First Prize again in the [17th SuperMap Cup GIS Contest](http://www.giscontest.com/en/) and was awarded at the [GIS Software Technology Conference 2019](http://www.gistc.com/en/gtc2019/index.asp).
+* October 31, 2019. We won First Prize (TPO 1 out of 300+ teams) in the [17th SuperMap Cup GIS Contest](http://www.giscontest.com/en/) and was awarded at the [GIS Software Technology Conference 2019](http://www.gistc.com/en/gtc2019/index.asp).
 * October 8, 2019. I was awarded [ACM SIGSPATIAL Student Travel Awards](https://sigspatial2019.sigspatial.org/travel-grants/). 
 * October 2, 2019. One paper titiled "A Location-based Social Network System Integrating Mobile Augmented Reality and User Generated Content" was accepted by [3rd ACM SIGSPATIAL Workshop on LocalRec 2019](http://www.ec.tuwien.ac.at/localrec2019/).
 * August 29, 2019. One paper titled "Design of Social Network System Based on Augmented Reality and Geo-fencing" was accepted by Journal of Geomatics.
