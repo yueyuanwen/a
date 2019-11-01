@@ -7,7 +7,7 @@ author_profile: true
 * **Academician Xia Jianbai Scholarship for Outstanding Students** *<span style="color:red">(1 student in School of Resource and
 Environmental Sciences)</span>*, Wuhan University, China, 2019
 
-* **First-class Undergraduate Scholarship** *<span style="color:red">(TPO 5%)</span>*, Wuhan University, China, 2019
+* **First-class Undergraduate Scholarship** *<span style="color:red">(TOP 5%)</span>*, Wuhan University, China, 2019
 
 * **Meritorious Winners**  *<span style="color:red">(TOP 8%)</span>*, Interdisciplinary Contest in Modeling (ICM), U.S.A, 2019
 
@@ -15,11 +15,11 @@ Environmental Sciences)</span>*, Wuhan University, China, 2019
 
 * **First Prize & Best Valuable Investment Prize** *<span style="color:red">(TOP 1%)</span>*, 16th SuperMap Cup GIS Contest, China, 2018
 
-* **Best Innovation Award** *<span style="color:red">(TPO 10 out of 4127 teams)</span>*, 7th China Software Cup-Software Design Competition for College Students, China, 2018
+* **Best Innovation Award** *<span style="color:red">(TOP 10 out of 4127 teams)</span>*, 7th China Software Cup-Software Design Competition for College Students, China, 2018
 
 * **Academician Chen Yongling Science and Technology Innovation Scholarship for Outstanding Students** *<span style="color:red">(1 student in School of Resource and Environmental Sciences)</span>*, Wuhan University, China, 2018
 
-* **First-class Undergraduate Scholarship** *<span style="color:red">(TPO 5%)</span>*, Wuhan University, China, 2018
+* **First-class Undergraduate Scholarship** *<span style="color:red">(TOP 5%)</span>*, Wuhan University, China, 2018
 
 * **Honorable Mention**, Esri GIS Contest for Chinese College Students, China, 2018
 
