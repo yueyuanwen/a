@@ -4,6 +4,10 @@ title: "Awards"
 permalink: /awards/
 author_profile: true
 ---
+* **First Prize** *<span style="color:red">(TOP 1 out of 300+ teams)</span>*, 17th SuperMap Cup GIS Contest, China, 2019
+
+* **ACM SIGSPATIAL 2019 Student Travel Awards**, ACM SIGSPATIAL Committee, U.S.A, 2019
+
 * **Academician Xia Jianbai Scholarship for Outstanding Students** *<span style="color:red">(1 student in School of Resource and
 Environmental Sciences)</span>*, Wuhan University, China, 2019
 
