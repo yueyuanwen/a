@@ -8,7 +8,7 @@ author_profile: true
 <div class="pub-container">
     <div class="pub-thumb"><img src="/images/ici2.0.png" style="height:130px"></div>
     <div class="pub-content">
-        <div class="pub-title">A Location-based Social Network System Integrating Mobile Augmented Reality and User Generated Content <i><font color="#FF0000">(Best Short Paper)</font></i></div>
+        <div class="pub-title">A Location-based Social Network System Integrating Mobile Augmented Reality and User Generated Content <i><font color="#FF0000" size="5">(Best Short Paper)</font></i></div>
         <div class="pub-author"><b>Yuanwen Yue</b>, Jiaqi Ding, Yuhao Kang, Yueyao Wang, Kunlin Wu, Teng Fei</div>
         <div class="pub-conf">In Proceedings of the 3rd ACM SIGSPATIAL International Workshop on LocalRec 2019</div>
         <div class="pub-link">
