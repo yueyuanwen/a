@@ -4,6 +4,8 @@ title: "Awards"
 permalink: /awards/
 author_profile: true
 ---
+* **Best Short Paper Award**, ACM SIGSPATIAL Committee, U.S.A, 2019
+
 * **First Prize** *<span style="color:red">(TOP 1 out of 300+ teams)</span>*, 17th SuperMap Cup GIS Contest, China, 2019
 
 * **ACM SIGSPATIAL 2019 Student Travel Awards**, ACM SIGSPATIAL Committee, U.S.A, 2019
