@@ -17,6 +17,7 @@ redirect_from:
 * My research interests lie in geoinformatics, 3D computer vision including augmented reality and UAV laser scanning as well as their applications. I am also working on projects in location based service. 
 
 # Recent news
+* November 8, 2019. We were presented *LocalRec: Best Short Paper Award* by the ACM SIGSPATIAL 2019 Committee.
 * November 7, 2019. One co-authored paper titled "Predicting PM2.5 concentration of Beijing based on coupled genetic algorithm and RBF neural network" was accepted by *China Environmental Science*.
 * October 31, 2019. We won First Prize (TOP 1 out of 300+ teams) in the [17th SuperMap Cup GIS Contest](http://www.giscontest.com/en/) and were awarded at the [*GIS Software Technology Conference 2019*](http://www.gistc.com/en/gtc2019/index.asp).
 * October 8, 2019. I was awarded [ACM SIGSPATIAL Student Travel Awards](https://sigspatial2019.sigspatial.org/travel-grants/). 
