@@ -30,6 +30,17 @@ author_profile: true
 </div>
 
 <div class="pub-container">
+    <div class="pub-thumb"><img src="/images/PM2.5.png" style="height:130px"></div>
+    <div class="pub-content">
+        <div class="pub-title">Predicting PM<sub>2.5</sub> Concentration of Beijing Based on Coupled Genetic Algorithm and RBF Neural Network</div>
+        <div class="pub-author">Ze Liang, Yueyao Wang, <b>Yuanwen Yue</b>, Feili Wei, Hong Jiang, Shuangcheng Li</div>
+        <div class="pub-conf">China Environmental Science <i><font size="3">(In press)</font></i></div>
+        <div class="pub-link">
+        </div>
+    </div>
+</div>
+
+<div class="pub-container">
     <div class="pub-thumb"><img src="/images/kylin_uav.png" style="height:130px"></div>
     <div class="pub-content">
         <div class="pub-title">Integration of A Low-cost Multisensory UAV System for Forest Application</div>
