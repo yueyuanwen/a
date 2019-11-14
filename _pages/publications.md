@@ -23,7 +23,7 @@ author_profile: true
     <div class="pub-content">
         <div class="pub-title">Design of Social Network System Based on Augmented Reality and Geo-fencing</div>
         <div class="pub-author"><b>Yuanwen Yue</b>, Yueyao Wang, Yuhao Kang, Jiaqi Ding, Kunlin Wu, Teng Fei</div>
-        <div class="pub-conf">Journal of Geomatics (Accepted)</div>
+        <div class="pub-conf">Journal of Geomatics *(In press)*</div>
         <div class="pub-link">
         [<a href="http://yueyw.net/portfolio/ici/">Project</a>]</div>
     </div>
