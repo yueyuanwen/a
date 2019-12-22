@@ -25,7 +25,7 @@ Email: yueyuanwen [at] whu.edu.cn
 		attribution: 'Map data &copy; <a href="https://www.openstreetmap.org/">OpenStreetMap</a> contributors, ' +
 			'<a href="https://creativecommons.org/licenses/by-sa/2.0/">CC-BY-SA</a>, ' +
 			'Imagery © <a href="https://www.mapbox.com/">Mapbox</a>',
-		id: 'mapbox/streets-v11'
+		id: 'mapbox/light-v10'
 	}).addTo(mymap);
 	L.marker([30.52775, 114.35470]).addTo(mymap)
 		.bindPopup("<b>Hello!</b>");
