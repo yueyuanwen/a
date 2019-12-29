@@ -5,7 +5,7 @@ permalink: /publications/ici-2
 venue: "ACM SIGSPATIAL International Workshop on LocalRec"
 excerpt: ''
 date: 2019-10-02
-paperurl: 'https://dl.acm.org/doi/10.1145/3356994.3365507'
+paperurl: https://dl.acm.org/doi/10.1145/3356994.3365507
 citation: 'Yuanwen Yue, Jiaqi Ding, Yuhao Kang, Yueyao Wang, Kunlin Wu, and Teng Fei. 2019. A Location-based Social Network System Integrating Mobile Augmented Reality and User Generated Content. In <i> LocalRec’19, November 5, 2019, Chicago, Illinois, USA.</i>'
 ---
 
