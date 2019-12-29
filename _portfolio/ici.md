@@ -1,6 +1,6 @@
 ---
 title: "Design of Location-based Augmented Reality System: ici"
-excerpt: "Oct.2017-Nov2019<br/>A software based on Augmented Reality (AR) technology to show information on virtual models at specific locations. <br/>
+excerpt: "Oct.2017-Nov.2019<br/>A software based on Augmented Reality (AR) technology to show information on virtual models at specific locations. <br/>
 <img src='/images/ici.jpg' style='width: 400px;'>"
 collection: portfolio
 ---
