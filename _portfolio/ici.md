@@ -11,7 +11,7 @@ We have developed two generations of systems and won many top awards, including
 * **First Prize & Best Valuable Investment Prize** *<span style="color:red">(TOP 1%)</span>*, 16th SuperMap Cup GIS Contest
 * **Best Innovation Award** *<span style="color:red">(TPO 10 out of 4127 teams)</span>*, 7th China Software Cup-Software Design Competition for College Students<br/>
 
-Besides, one paper about the first system was accepted by the Journal of Geomatics. Another paper about the second system was accepted at the ACM SIGSPATIAL International Workshop on LocalRec 2019.
+Besides, one paper about the first system was accepted by the Journal of Geomatics. Another paper about the second system was accepted at the ACM SIGSPATIAL International Workshop on LocalRec 2019 *(Best Short Paper)*.
 <br/>
 
 Now, we are looking for investment and cooperation. Below are two demo videos of our system. If you are interested in our project, please don't hesitate to contact us!<br/>
