@@ -1,7 +1,7 @@
 ---
 permalink: /
-title: "About me"
-excerpt: "About me"
+title: 
+excerpt: 
 author_profile: true
 header: 
   overlay_image: banner.jpg
@@ -9,7 +9,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
+# About me
 <p align="center">
   <img src="https://yueyuanwen.github.io/files/yueyuanwen1.jpg?raw=true" alt="Photo" style="width: 450px;"/> 
 </p>
